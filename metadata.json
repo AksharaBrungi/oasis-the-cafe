@@ -1,0 +1,6 @@
+{
+  "name": "Oasis The Cafe",
+  "description": "A Paradise On Roof - Premium Rooftop Cafe in BN Reddy Nagar, Hyderabad",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
